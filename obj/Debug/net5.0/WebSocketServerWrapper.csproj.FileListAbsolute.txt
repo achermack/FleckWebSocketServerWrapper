@@ -1,0 +1,12 @@
+C:\code\WebSocketServerWrapper\bin\Debug\net5.0\WebSocketServerWrapper.deps.json
+C:\code\WebSocketServerWrapper\bin\Debug\net5.0\WebSocketServerWrapper.dll
+C:\code\WebSocketServerWrapper\bin\Debug\net5.0\ref\WebSocketServerWrapper.dll
+C:\code\WebSocketServerWrapper\bin\Debug\net5.0\WebSocketServerWrapper.pdb
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.csproj.AssemblyReference.cache
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.AssemblyInfoInputs.cache
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.AssemblyInfo.cs
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.csproj.CoreCompileInputs.cache
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.dll
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\ref\WebSocketServerWrapper.dll
+C:\code\WebSocketServerWrapper\obj\Debug\net5.0\WebSocketServerWrapper.pdb
